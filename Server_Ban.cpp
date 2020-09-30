@@ -1,4 +1,3 @@
-// Video tutorial: http://www.youtube.com/user/vertexbrasil
 #include "StdAfx.h"
 #include <vector>
 #include <memory>
@@ -6,7 +5,7 @@
 #include <type_traits>
 
 void PHP_D_Br(){
-	MessageBoxA(NULL,"HTTP - Connection \n\n A conex„o com o servidor falhou!", carrega.Nome_das_Janelas, MB_SERVICE_NOTIFICATION | MB_ICONWARNING);
+	MessageBoxA(NULL,"HTTP - Connection \n\n A conex√£o com o servidor falhou!", carrega.Nome_das_Janelas, MB_SERVICE_NOTIFICATION | MB_ICONWARNING);
 ExitProcess(0);
 }
 void PHP_D_En(){
